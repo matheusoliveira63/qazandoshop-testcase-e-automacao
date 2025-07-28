@@ -1,4 +1,4 @@
-# Projeto QAzando Shop - TestCases + Automação (Páginas de Login e Cadastro)
+# Projeto QAzando Shop - Test Cases + Automação (Páginas de Login e Cadastro)
 📋 Sobre o Projeto
 Este projeto tem como objetivo implementar uma estratégia completa de QA para as páginas de Login e Cadastro do site Automation Practice, abrangendo desde a criação de casos de teste detalhados até a automação completa dos cenários.
 🎯 Objetivos Principais
